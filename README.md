@@ -1,8 +1,8 @@
 # Aplikasi Investasi Pengujian Knapsack
-TUBES AKA
-Jury Maxwell 103132400023
-Muhammad ‘Izzuddin Nabil 103132400032
-Immanuel Raditya Deo Pratama Pambudhi 103132430001
+TUBES AKA Sains Data 2025
+- Jury Maxwell 103132400023
+- Muhammad ‘Izzuddin Nabil 103132400032
+- Immanuel Raditya Deo Pratama Pambudhi 103132430001
 Topik:
 analisis Perbandingan Kinerja Algoritma Knapsack Menggunakan Pendekatan Iteratif dan Rekursif pada Studi Kasus Optimisasi Portofolio Investasi Berbasis Web
 
